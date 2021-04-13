@@ -11,6 +11,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://linkedin.com/in/linkedin.com/in/elektra-thanos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/elektra-thanos" height="30" width="40" /></a>
 <a href="https://instagram.com/shining_elektra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shining_elektra" height="30" width="40" /></a>
 </p>
 
