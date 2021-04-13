@@ -8,6 +8,9 @@
 <p align="center">
 💻 Experience with graphics programs <b>InDesign, Photoshop, Illustrator</b>
 </p>
+<p align="center">
+🐠 Teilnehmer beim Web-Development Bootcamp (https://www.neuefische.de/)
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
