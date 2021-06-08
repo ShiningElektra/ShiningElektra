@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shiningelektra&label=Profile%20views&color=0e75b6&style=flat" alt="shiningelektra" /> </p>
 <p align="center">
-🔭 I’m currently working on <b>Notizen +</b>
+🔭 I’m currently working at web'n'sale
   </p>
 <p align="center">
 💻 Experience with graphics programs <b>InDesign, Photoshop, Illustrator</b>
